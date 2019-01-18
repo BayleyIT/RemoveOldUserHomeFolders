@@ -1,1 +1,2 @@
-first commit
+This code will remove user's home folder that no longer work at Bayley
+
